@@ -74,9 +74,9 @@ while (loop == 'true'):
 
     print logo
 
-    username = raw_input(' TOOL USERNAME: ')
+    username = raw_input(' TOOL USERNAME:DARK'):
 
-    if (username == CorrectUsername):
+    if (username == CorrectUsername DARK ):
 
     	password = raw_input(' TOOL PASSWORD: ')        if (password == CorrectPassword):
 
