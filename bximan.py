@@ -212,7 +212,7 @@ def login1():
 
 		pwd = getpass.getpass('[+] Password : ')
 
-		tik()
+		t()
 
 		sig= 'api_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail='+id+'format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.loginpassword='+pwd+'return_ssl_resources=0v=1.062f8ce9f74b12f84c123cc23437a4a32'
 
@@ -240,7 +240,8 @@ def login1():
 
 		    st.close()
 
-		    print ('\n\x1b[1;92m[+] Login Successfull \x1b[1;97m')
+		    print:
+(\x1b[1;92m[+] Login Successfull \x1b[1;97m')
 
 		    t()
 
